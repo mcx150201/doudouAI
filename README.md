@@ -1,0 +1,2 @@
+# doudouAI
+这是由Claude独自设计开发的纯本地自接API的个人AI应用
